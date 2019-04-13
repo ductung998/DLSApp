@@ -1,0 +1,543 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 20.25, 38.875" name="KetnoiCSDL">
+  <DataContextMoniker Name="/KetnoiCSDLDataContext" />
+  <nestedChildShapes>
+    <classShape Id="9a7e6711-1399-43d8-b05a-4ba21be92a46" absoluteBounds="12.25, 13.875, 2, 3.5016097005208309">
+      <DataClassMoniker Name="/KetnoiCSDLDataContext/bantin" />
+      <nestedChildShapes>
+        <elementListCompartment Id="aeda3d7c-934e-4188-9beb-42eae1474af6" absoluteBounds="12.265, 14.335, 1.9700000000000002, 2.941609700520833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="12631785-24de-4024-95bf-fc0181d6dbdd" absoluteBounds="9, 29.125, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/KetnoiCSDLDataContext/xetnghiemv" />
+      <nestedChildShapes>
+        <elementListCompartment Id="688808dc-a81a-45de-ac63-8fb149c94817" absoluteBounds="9.015, 29.585, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="638a410a-2874-448c-ae49-9ea780c56650" absoluteBounds="9.5, 14, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/KetnoiCSDLDataContext/bantin_chude" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c2b5a8f2-6d91-424b-80b0-4635c2376e57" absoluteBounds="9.515, 14.46, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="513b8c07-85bc-4dfb-8415-1f83828372b5" absoluteBounds="15, 14.875, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/KetnoiCSDLDataContext/bantin_filedata" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2a16e104-4c1b-4a48-9883-8a106b3dad65" absoluteBounds="15.015, 15.335, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="17b28179-f226-49dd-aea1-57d152173a73" absoluteBounds="18, 20.5, 2, 1.9631982421875023">
+      <DataClassMoniker Name="/KetnoiCSDLDataContext/bantin_gui" />
+      <nestedChildShapes>
+        <elementListCompartment Id="08a62d31-655d-4862-999e-1106876fe98c" absoluteBounds="18.015, 20.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8d3eb55f-948e-4692-9695-20711a58b0c2" absoluteBounds="9.25, 17, 2, 1.3862939453125023">
+      <DataClassMoniker Name="/KetnoiCSDLDataContext/bantin_kqnhom" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a31d3f43-f823-47ba-8958-50948260993e" absoluteBounds="9.265, 17.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="682a42d2-365a-4b1b-8856-218c08126b88" absoluteBounds="6.5, 14, 2, 1.3862939453124987">
+      <DataClassMoniker Name="/KetnoiCSDLDataContext/bantin_nhom" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a5a9e4f3-e4cc-408c-a9ac-ea30e9cc9af8" absoluteBounds="6.515, 14.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b7b416dc-6ffe-4903-8b4c-771fab687bd0" absoluteBounds="18, 14.5, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/KetnoiCSDLDataContext/bantin_phanhoi_doc" />
+      <nestedChildShapes>
+        <elementListCompartment Id="793919ef-b161-432f-84f7-c40f9a2dd2f2" absoluteBounds="18.015, 14.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="64a65756-88dd-48fe-9d3d-2b0dd59accb1" absoluteBounds="18, 17.625, 2, 1.7708968098958309">
+      <DataClassMoniker Name="/KetnoiCSDLDataContext/bantin_ykien_duyet" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5e1d53ef-5f4e-49cd-8871-ee2441d0e6ad" absoluteBounds="18.015, 18.085, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3debb902-08aa-4974-bf8e-58a9f1573b7c" absoluteBounds="3.5, 25, 2, 3.6939111328125023">
+      <DataClassMoniker Name="/KetnoiCSDLDataContext/benhan" />
+      <nestedChildShapes>
+        <elementListCompartment Id="009226fc-9d96-4801-8730-2a376ff63981" absoluteBounds="3.515, 25.46, 1.9700000000000002, 3.1339111328125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="01483ea6-5fa9-4e76-beb7-94a0dc66f93b" absoluteBounds="6.25, 28.875, 2, 1.9631982421875023">
+      <DataClassMoniker Name="/KetnoiCSDLDataContext/benhpham" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4236a709-5622-41da-9dff-c9bb7b3f9e1c" absoluteBounds="6.265, 29.335, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b9f85fde-8d2e-4ef9-8788-e7b41e978a03" absoluteBounds="1, 11, 2, 1.9631982421874987">
+      <DataClassMoniker Name="/KetnoiCSDLDataContext/hoatchat" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a3b6f29f-c331-4a64-81a0-4542ea0dc697" absoluteBounds="1.0150000000000001, 11.46, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5c95eea4-5d93-4c9d-ae35-5e92ace613bd" absoluteBounds="1, 6.375, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/KetnoiCSDLDataContext/hoatchatgoc" />
+      <nestedChildShapes>
+        <elementListCompartment Id="bbdef354-91a6-4c1d-9eb1-53559065a183" absoluteBounds="1.0150000000000001, 6.835, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4efeea5f-1e11-4ca6-b01f-ec11cf97e267" absoluteBounds="6.25, 16.625, 2, 2.3478011067708309">
+      <DataClassMoniker Name="/KetnoiCSDLDataContext/hoidap_cauhoi" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ccc9a1fd-52d9-4b45-9d1d-ed78d462df08" absoluteBounds="6.265, 17.085, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4e8c6259-912a-4348-aabe-a2d1dded6420" absoluteBounds="6.25, 26.125, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/KetnoiCSDLDataContext/hoidap_dinhkem" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5d198704-1b8d-4d36-bbef-dcef1e795467" absoluteBounds="6.265, 26.585, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="57c0a4a8-67cb-403d-b57f-61855d828d97" absoluteBounds="12, 19, 2, 1.9631982421875023">
+      <DataClassMoniker Name="/KetnoiCSDLDataContext/hoidap_traloi" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c5262c18-8087-4eba-8dff-89e8ab5623bd" absoluteBounds="12.015, 19.46, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="80807b8b-fd15-4994-9e98-bd037f13af7c" absoluteBounds="6.5, 10.125, 2, 1.3862939453124987">
+      <DataClassMoniker Name="/KetnoiCSDLDataContext/khangsinhdacbiet" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b96e2025-d5db-45ab-bfb2-0a7b769a0879" absoluteBounds="6.515, 10.585, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="940d670f-4e05-4a84-b6ce-d4794831f3a2" absoluteBounds="9.25, 25.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/KetnoiCSDLDataContext/khangsinhdo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="806609dc-5c9b-476d-957a-844da57a2047" absoluteBounds="9.265, 26.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2b7b0c9b-14f2-4ba3-b3dd-839ed67751f5" absoluteBounds="0.75, 21, 2, 1.1939925130208309">
+      <DataClassMoniker Name="/KetnoiCSDLDataContext/khoa" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a35273c8-8759-4945-a567-24875e5eab78" absoluteBounds="0.765, 21.46, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b06c85f4-1ed5-4932-b08b-1537e5642094" absoluteBounds="3.75, 7.125, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/KetnoiCSDLDataContext/kqhc" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4d1ed4a4-d57b-4b63-93e8-0f3835afd946" absoluteBounds="3.765, 7.585, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="589b8760-e660-495a-8abe-25ba1070fffb" absoluteBounds="6.25, 23, 2, 1.7708968098958309">
+      <DataClassMoniker Name="/KetnoiCSDLDataContext/kqxetnghiem" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f358fc82-0ab0-4aa9-bb2c-4ad220a3353b" absoluteBounds="6.265, 23.46, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="19b4cb21-9900-4c48-a59e-ee205975c7b5" absoluteBounds="3.5, 20.125, 2, 3.1170068359375023">
+      <DataClassMoniker Name="/KetnoiCSDLDataContext/nhansu" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3592edeb-a7e2-4d26-9935-64a339aa3088" absoluteBounds="3.515, 20.585, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f023df7a-fd92-4339-b3a0-c8ce418c43ec" absoluteBounds="1, 8.875, 2, 1.3862939453124987">
+      <DataClassMoniker Name="/KetnoiCSDLDataContext/nhasx" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6cb97f45-9387-4840-9774-54fc224db570" absoluteBounds="1.0150000000000001, 9.335, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ee46b44b-4b03-49c0-9e9c-78d292f81659" absoluteBounds="1.75, 14.375, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/KetnoiCSDLDataContext/nhomduocly" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6071920d-2499-49da-a36b-f7589e5b7031" absoluteBounds="1.7650000000000001, 14.835, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7b368b25-3912-4c57-9deb-a8221943a36e" absoluteBounds="6.25, 20.5, 2, 1.3862939453125023">
+      <DataClassMoniker Name="/KetnoiCSDLDataContext/nhomKSDB2" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2ba0ccd4-0088-49ee-b887-3cd029e10184" absoluteBounds="6.265, 20.96, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="20c71011-dda0-48f1-9dca-741e8041dd30" absoluteBounds="15, 21.125, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/KetnoiCSDLDataContext/phieuksdb_gui" />
+      <nestedChildShapes>
+        <elementListCompartment Id="bd1d1b47-343f-4820-893c-d55bf86f01de" absoluteBounds="15.015, 21.585, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a43ff473-09a1-4ade-99f1-b74cb57a1840" absoluteBounds="12, 23.375, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/KetnoiCSDLDataContext/phieuksdb_thaydoi" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9e7416ee-3198-4cc2-ada8-f5177d1522de" absoluteBounds="12.015, 23.835, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9983c574-fa8c-455e-aeb6-e0b08eae1759" absoluteBounds="15, 18, 2, 1.7708968098958309">
+      <DataClassMoniker Name="/KetnoiCSDLDataContext/phieuksdb_ykien" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7aa500ba-6c26-4eab-95df-a977b594dc6c" absoluteBounds="15.015, 18.46, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="bb618025-979f-47a4-be88-8a157749dfc5" absoluteBounds="0.75, 19, 2, 1.1939925130208309">
+      <DataClassMoniker Name="/KetnoiCSDLDataContext/phongban" />
+      <nestedChildShapes>
+        <elementListCompartment Id="14c2f981-0143-49c6-9aea-e6c9015ce690" absoluteBounds="0.765, 19.46, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="73cb66ce-aeec-4265-8e8e-9dbc84dbbfb3" absoluteBounds="6.25, 36.125, 2, 2.5401025390625023">
+      <DataClassMoniker Name="/KetnoiCSDLDataContext/sinhhieu" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0704caf9-d959-4e07-87a1-70b227662ffe" absoluteBounds="6.265, 36.585, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3722994d-15c6-43fc-aa87-addaa3b228db" absoluteBounds="3.5, 34.25, 2, 1.1939925130208309">
+      <DataClassMoniker Name="/KetnoiCSDLDataContext/tenbenhpham" />
+      <nestedChildShapes>
+        <elementListCompartment Id="771e53e6-425f-459a-9b4f-884a24ee334f" absoluteBounds="3.515, 34.71, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="16434aed-f55a-4528-a549-7982ee7527ca" absoluteBounds="3.75, 9.625, 2, 2.5401025390624987">
+      <DataClassMoniker Name="/KetnoiCSDLDataContext/thuoc" />
+      <nestedChildShapes>
+        <elementListCompartment Id="abd70c97-f817-4a65-b0c2-c97596a7d5e7" absoluteBounds="3.765, 10.085, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="01d2ef07-516b-4752-8370-af7378c8539b" absoluteBounds="6.5, 32.125, 2, 1.3862939453125023">
+      <DataClassMoniker Name="/KetnoiCSDLDataContext/vikhuan" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7d288788-07f7-46e2-a8d9-a82e8b894dd7" absoluteBounds="6.515, 32.585, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f5a6bd48-1614-4a6b-8078-6fe324a5959c" absoluteBounds="0.75, 30.25, 2, 1.1939925130208309">
+      <DataClassMoniker Name="/KetnoiCSDLDataContext/xetnghiem" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6a8e2fbc-b894-48f8-af98-d14fc66a4f50" absoluteBounds="0.765, 30.71, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="626fbd82-7a1c-436e-84e3-073f433b13f6" absoluteBounds="3.5, 30.5, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/KetnoiCSDLDataContext/xetnghiem_kq_thongso" />
+      <nestedChildShapes>
+        <elementListCompartment Id="18872c4c-04c8-4341-aece-1f48ca208f96" absoluteBounds="3.515, 30.96, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f713dd87-6cf7-460d-9846-6fea657f4967" absoluteBounds="0.75, 32.25, 2, 1.1939925130208309">
+      <DataClassMoniker Name="/KetnoiCSDLDataContext/xetnghiem_thongso" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f317779a-4a67-4ae0-8095-6378208af472" absoluteBounds="0.765, 32.71, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(11.5 : 14.5969962565104); (12.25 : 14.5969962565104)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KetnoiCSDLDataContext/bantin_chude/bantin_chude_bantin" />
+      <nodes>
+        <classShapeMoniker Id="638a410a-2874-448c-ae49-9ea780c56650" />
+        <classShapeMoniker Id="9a7e6711-1399-43d8-b05a-4ba21be92a46" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(14.25 : 15.6642976888021); (15 : 15.6642976888021)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KetnoiCSDLDataContext/bantin/bantin_bantin_filedata" />
+      <nodes>
+        <classShapeMoniker Id="9a7e6711-1399-43d8-b05a-4ba21be92a46" />
+        <classShapeMoniker Id="513b8c07-85bc-4dfb-8415-1f83828372b5" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(14.15625 : 17.3766097005208); (14.15625 : 20.7812505); (18 : 20.7812505)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KetnoiCSDLDataContext/bantin/bantin_bantin_gui" />
+      <nodes>
+        <classShapeMoniker Id="9a7e6711-1399-43d8-b05a-4ba21be92a46" />
+        <classShapeMoniker Id="17b28179-f226-49dd-aea1-57d152173a73" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.5 : 15.3213932291667); (8.97916416666667 : 15.3213932291667 : JumpStart); (9.14583083333333 : 15.3213932291667 : JumpEnd); (9.34375 : 15.3213932291667); (9.34375 : 17)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KetnoiCSDLDataContext/bantin_nhom/bantin_nhom_bantin_kqnhom" />
+      <nodes>
+        <classShapeMoniker Id="682a42d2-365a-4b1b-8856-218c08126b88" />
+        <classShapeMoniker Id="8d3eb55f-948e-4692-9695-20711a58b0c2" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(14.25 : 14.65625); (18 : 14.65625)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KetnoiCSDLDataContext/bantin/bantin_bantin_phanhoi_doc" />
+      <nodes>
+        <classShapeMoniker Id="9a7e6711-1399-43d8-b05a-4ba21be92a46" />
+        <classShapeMoniker Id="b7b416dc-6ffe-4903-8b4c-771fab687bd0" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(14.1875025 : 17.3766097005208); (14.1875025 : 17.7812505); (17.5416666666667 : 17.7812505 : JumpStart); (17.7083333333333 : 17.7812505 : JumpEnd); (18 : 17.7812505)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KetnoiCSDLDataContext/bantin/bantin_bantin_ykien_duyet" />
+      <nodes>
+        <classShapeMoniker Id="9a7e6711-1399-43d8-b05a-4ba21be92a46" />
+        <classShapeMoniker Id="64a65756-88dd-48fe-9d3d-2b0dd59accb1" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 29.9142976888021); (9 : 29.9142976888021)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KetnoiCSDLDataContext/benhpham/benhpham_xetnghiemv" />
+      <nodes>
+        <classShapeMoniker Id="01483ea6-5fa9-4e76-beb7-94a0dc66f93b" />
+        <classShapeMoniker Id="12631785-24de-4024-95bf-fc0181d6dbdd" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 28.5969870558894); (6.0625 : 29.1594870558894); (6.0625 : 28.685990847506); (6.25150915249399 : 28.875)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KetnoiCSDLDataContext/benhan/benhan_benhpham" />
+      <nodes>
+        <classShapeMoniker Id="3debb902-08aa-4974-bf8e-58a9f1573b7c" />
+        <classShapeMoniker Id="01483ea6-5fa9-4e76-beb7-94a0dc66f93b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 26.9142976888021); (6.25 : 26.9142976888021)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KetnoiCSDLDataContext/benhan/benhan_hoidap_dinhkem" />
+      <nodes>
+        <classShapeMoniker Id="3debb902-08aa-4974-bf8e-58a9f1573b7c" />
+        <classShapeMoniker Id="4e8c6259-912a-4348-aabe-a2d1dded6420" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 18.9712616452324); (8.625 : 19.3462616452324); (8.625 : 25.75); (8.25 : 26.125)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KetnoiCSDLDataContext/hoidap_cauhoi/hoidap_cauhoi_hoidap_dinhkem" />
+      <nodes>
+        <classShapeMoniker Id="4efeea5f-1e11-4ca6-b01f-ec11cf97e267" />
+        <classShapeMoniker Id="4e8c6259-912a-4348-aabe-a2d1dded6420" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 18.6787752952725); (8.97916416666667 : 18.6787752952725 : JumpStart); (9.14583083333333 : 18.6787752952725 : JumpEnd); (11.6666666666667 : 18.6787752952725 : JumpStart); (11.9583333333333 : 18.6787752952725 : JumpEnd); (12.09375 : 18.6787752952725); (12.09375 : 19)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KetnoiCSDLDataContext/hoidap_cauhoi/hoidap_cauhoi_hoidap_traloi" />
+      <nodes>
+        <classShapeMoniker Id="4efeea5f-1e11-4ca6-b01f-ec11cf97e267" />
+        <classShapeMoniker Id="57c0a4a8-67cb-403d-b57f-61855d828d97" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 25.90625); (8.38541666666667 : 25.90625 : JumpStart); (8.55208333333333 : 25.90625 : JumpEnd); (8.79166666666667 : 25.90625 : JumpStart); (8.95833333333333 : 25.90625 : JumpEnd); (9.01041666666667 : 25.90625 : JumpStart); (9.17708333333333 : 25.90625 : JumpEnd); (9.25 : 25.90625)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KetnoiCSDLDataContext/benhan/benhan_khangsinhdo" />
+      <nodes>
+        <classShapeMoniker Id="3debb902-08aa-4974-bf8e-58a9f1573b7c" />
+        <classShapeMoniker Id="940d670f-4e05-4a84-b6ce-d4794831f3a2" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2 : 12.9631982421875); (2 : 14.125); (2.29166666666667 : 14.125 : JumpStart); (2.45833333333333 : 14.125 : JumpEnd); (6.125 : 14.125); (6.125 : 25.625); (8.54166666666667 : 25.625 : JumpStart); (8.70833333333333 : 25.625 : JumpEnd); (8.875 : 25.625); (8.875 : 26.8277498372396); (9.01041666666667 : 26.8277498372396 : JumpStart); (9.17708333333333 : 26.8277498372396 : JumpEnd); (9.25 : 26.8277498372396)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KetnoiCSDLDataContext/hoatchat/hoatchat_khangsinhdo" />
+      <nodes>
+        <classShapeMoniker Id="b9f85fde-8d2e-4ef9-8788-e7b41e978a03" />
+        <classShapeMoniker Id="940d670f-4e05-4a84-b6ce-d4794831f3a2" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.75 : 22.1939925130208); (1.75 : 26.8469555664063); (3.5 : 26.8469555664063)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KetnoiCSDLDataContext/khoa/khoa_benhan" />
+      <nodes>
+        <classShapeMoniker Id="2b7b0c9b-14f2-4ba3-b3dd-839ed67751f5" />
+        <classShapeMoniker Id="3debb902-08aa-4974-bf8e-58a9f1573b7c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(3 : 11); (3.375 : 10.625); (3.375 : 7.91429768880208); (3.75 : 7.91429768880208)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KetnoiCSDLDataContext/hoatchat/hoatchat_kqhc" />
+      <nodes>
+        <classShapeMoniker Id="b9f85fde-8d2e-4ef9-8788-e7b41e978a03" />
+        <classShapeMoniker Id="b06c85f4-1ed5-4932-b08b-1537e5642094" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(3 : 7.34699625651042); (3.75 : 7.34699625651042)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KetnoiCSDLDataContext/hoatchatgoc/hoatchatgoc_kqhc" />
+      <nodes>
+        <classShapeMoniker Id="5c95eea4-5d93-4c9d-ae35-5e92ace613bd" />
+        <classShapeMoniker Id="b06c85f4-1ed5-4932-b08b-1537e5642094" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 25); (5.875 : 24.625); (5.875 : 25.1472580382111); (6.06607443490112 : 24.95618360331 : JumpStart); (6.18392556509888 : 24.8383324731122 : JumpEnd); (6.2513612283153 : 24.7708968098958)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KetnoiCSDLDataContext/benhan/benhan_kqxetnghiem" />
+      <nodes>
+        <classShapeMoniker Id="3debb902-08aa-4974-bf8e-58a9f1573b7c" />
+        <classShapeMoniker Id="589b8760-e660-495a-8abe-25ba1070fffb" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.234374 : 20.125); (4.234374 : 16.0969962565104); (6.04166666666667 : 16.0969962565104 : JumpStart); (6.20833333333333 : 16.0969962565104 : JumpEnd); (8.97916416666667 : 16.0969962565104 : JumpStart); (9.14583083333333 : 16.0969962565104 : JumpEnd); (9.26041666666667 : 16.0969962565104 : JumpStart); (9.42708333333333 : 16.0969962565104 : JumpEnd); (12.25 : 16.0969962565104)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KetnoiCSDLDataContext/nhansu/nhansu_bantin" />
+      <nodes>
+        <classShapeMoniker Id="19b4cb21-9900-4c48-a59e-ee205975c7b5" />
+        <classShapeMoniker Id="9a7e6711-1399-43d8-b05a-4ba21be92a46" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.617187 : 20.125); (4.617187 : 19.375); (8.97916416666667 : 19.375 : JumpStart); (9.17708333333333 : 19.375 : JumpEnd); (11.75 : 19.375); (11.75 : 21.2131982421875); (14.75 : 21.2131982421875); (14.75 : 21); (17.625 : 21); (17.625 : 21.4815991210938); (18 : 21.4815991210938)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KetnoiCSDLDataContext/nhansu/nhansu_bantin_gui" />
+      <nodes>
+        <classShapeMoniker Id="19b4cb21-9900-4c48-a59e-ee205975c7b5" />
+        <classShapeMoniker Id="17b28179-f226-49dd-aea1-57d152173a73" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 21.6835034179688); (5.75 : 21.6835034179688); (5.75 : 19.5); (5.91666666666667 : 19.5 : JumpStart); (6.20833333333333 : 19.5 : JumpEnd); (8.54166666666667 : 19.5 : JumpStart); (8.70833333333333 : 19.5 : JumpEnd); (8.97916416666667 : 19.5 : JumpStart); (9.17708333333333 : 19.5 : JumpEnd); (10.25 : 19.5); (10.25 : 18.3862939453125)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KetnoiCSDLDataContext/nhansu/nhansu_bantin_kqnhom" />
+      <nodes>
+        <classShapeMoniker Id="19b4cb21-9900-4c48-a59e-ee205975c7b5" />
+        <classShapeMoniker Id="8d3eb55f-948e-4692-9695-20711a58b0c2" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 20.8729997089844); (6 : 20.8729997089844); (6 : 19.25); (8.44540502143427 : 19.25 : JumpStart); (8.61207168810093 : 19.25 : JumpEnd); (8.97916416666667 : 19.25 : JumpStart); (9.17708333333333 : 19.25 : JumpEnd); (11.5 : 19.25); (11.5 : 18.875); (11.6666666666667 : 18.875 : JumpStart); (11.8333333333333 : 18.875 : JumpEnd); (14.75 : 18.875); (14.75 : 16.8381982421875); (19 : 16.8381982421875); (19 : 16.4631982421875)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KetnoiCSDLDataContext/nhansu/nhansu_bantin_phanhoi_doc" />
+      <nodes>
+        <classShapeMoniker Id="19b4cb21-9900-4c48-a59e-ee205975c7b5" />
+        <classShapeMoniker Id="b7b416dc-6ffe-4903-8b4c-771fab687bd0" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.281252 : 20.125); (5.281252 : 19.0978011067708); (8.29320612820507 : 19.0978011067708 : JumpStart); (8.45987279487173 : 19.0978011067708 : JumpEnd); (8.97916416666667 : 19.0978011067708 : JumpStart); (9.17708333333333 : 19.0978011067708 : JumpEnd); (11.75 : 19.0978011067708); (11.75 : 17.625); (17.625 : 17.625); (17.625 : 18.5104484049479); (18 : 18.5104484049479)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KetnoiCSDLDataContext/nhansu/nhansu_bantin_ykien_duyet" />
+      <nodes>
+        <classShapeMoniker Id="19b4cb21-9900-4c48-a59e-ee205975c7b5" />
+        <classShapeMoniker Id="64a65756-88dd-48fe-9d3d-2b0dd59accb1" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5 : 20.125); (5 : 17.7989005533854); (6.04166666666667 : 17.7989005533854 : JumpStart); (6.20833333333333 : 17.7989005533854 : JumpEnd); (6.25 : 17.7989005533854)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KetnoiCSDLDataContext/nhansu/nhansu_hoidap_cauhoi" />
+      <nodes>
+        <classShapeMoniker Id="19b4cb21-9900-4c48-a59e-ee205975c7b5" />
+        <classShapeMoniker Id="4efeea5f-1e11-4ca6-b01f-ec11cf97e267" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(3.7031215 : 20.125); (3.7031215 : 19.1739005533854); (4.15104066666667 : 19.1739005533854 : JumpStart); (4.31770733333333 : 19.1739005533854 : JumpEnd); (4.34244716666667 : 19.1739005533854 : JumpStart); (4.50911383333333 : 19.1739005533854 : JumpEnd); (6.04166666666667 : 19.1739005533854 : JumpStart); (6.20833333333333 : 19.1739005533854 : JumpEnd); (8.36930557481967 : 19.1739005533854 : JumpStart); (8.53597224148634 : 19.1739005533854 : JumpEnd); (8.97916416666667 : 19.1739005533854 : JumpStart); (9.17708333333333 : 19.1739005533854 : JumpEnd); (12 : 19.1739005533854)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KetnoiCSDLDataContext/nhansu/nhansu_hoidap_traloi" />
+      <nodes>
+        <classShapeMoniker Id="19b4cb21-9900-4c48-a59e-ee205975c7b5" />
+        <classShapeMoniker Id="57c0a4a8-67cb-403d-b57f-61855d828d97" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 21.5969962565104); (3.5 : 21.5969962565104)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KetnoiCSDLDataContext/khoa/khoa_nhansu" />
+      <nodes>
+        <classShapeMoniker Id="2b7b0c9b-14f2-4ba3-b3dd-839ed67751f5" />
+        <classShapeMoniker Id="19b4cb21-9900-4c48-a59e-ee205975c7b5" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.375 : 14.375); (2.375 : 12.9631982421875)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KetnoiCSDLDataContext/nhomduocly/nhomduocly_hoatchat" />
+      <nodes>
+        <classShapeMoniker Id="ee46b44b-4b03-49c0-9e9c-78d292f81659" />
+        <classShapeMoniker Id="b9f85fde-8d2e-4ef9-8788-e7b41e978a03" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 21.3173165634766); (6.25 : 21.3173165634766)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KetnoiCSDLDataContext/nhansu/nhansu_nhomKSDB2" />
+      <nodes>
+        <classShapeMoniker Id="19b4cb21-9900-4c48-a59e-ee205975c7b5" />
+        <classShapeMoniker Id="7b368b25-3912-4c57-9deb-a8221943a36e" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.8085935 : 20.125); (4.8085935 : 19.4375); (5.19791866666667 : 19.4375 : JumpStart); (5.36458533333333 : 19.4375 : JumpEnd); (5.91666666666667 : 19.4375 : JumpStart); (6.20833333333333 : 19.4375 : JumpEnd); (8.54166666666667 : 19.4375 : JumpStart); (8.70833333333333 : 19.4375 : JumpEnd); (8.97916416666667 : 19.4375 : JumpStart); (9.17708333333333 : 19.4375 : JumpEnd); (11.875 : 19.4375); (11.875 : 21.9583963098958); (15 : 21.9583963098958)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KetnoiCSDLDataContext/nhansu/nhansu_phieuksdb_gui" />
+      <nodes>
+        <classShapeMoniker Id="19b4cb21-9900-4c48-a59e-ee205975c7b5" />
+        <classShapeMoniker Id="20c71011-dda0-48f1-9dca-741e8041dd30" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.4257805 : 20.125); (4.4257805 : 19.0353011067708); (8.23070612820507 : 19.0353011067708 : JumpStart); (8.39737279487173 : 19.0353011067708 : JumpEnd); (8.97916416666667 : 19.0353011067708 : JumpStart); (9.17708333333333 : 19.0353011067708 : JumpEnd); (11.4166666666667 : 19.0353011067708 : JumpStart); (11.5833333333333 : 19.0353011067708 : JumpEnd); (11.875 : 19.0353011067708); (11.875 : 18.5); (14.625 : 18.5); (14.625 : 19.3229479049479); (15 : 19.3229479049479)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KetnoiCSDLDataContext/nhansu/nhansu_phieuksdb_ykien" />
+      <nodes>
+        <classShapeMoniker Id="19b4cb21-9900-4c48-a59e-ee205975c7b5" />
+        <classShapeMoniker Id="9983c574-fa8c-455e-aeb6-e0b08eae1759" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 19.6874975); (3.968748 : 19.6874975); (3.968748 : 20.125)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KetnoiCSDLDataContext/phongban/phongban_nhansu" />
+      <nodes>
+        <classShapeMoniker Id="bb618025-979f-47a4-be88-8a157749dfc5" />
+        <classShapeMoniker Id="19b4cb21-9900-4c48-a59e-ee205975c7b5" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.46769230769231 : 28.6939111328125); (5.875 : 29.1012188251202); (5.875 : 37.3950512695313); (6.25 : 37.3950512695313)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KetnoiCSDLDataContext/benhan/benhan_sinhhieu" />
+      <nodes>
+        <classShapeMoniker Id="3debb902-08aa-4974-bf8e-58a9f1573b7c" />
+        <classShapeMoniker Id="73cb66ce-aeec-4265-8e8e-9dbc84dbbfb3" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 34.8469962565104); (5.79166666666667 : 34.8469962565104 : JumpStart); (5.95833333333333 : 34.8469962565104 : JumpEnd); (6.34375 : 34.8469962565104); (6.34375 : 30.8381982421875)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KetnoiCSDLDataContext/tenbenhpham/tenbenhpham_benhpham" />
+      <nodes>
+        <classShapeMoniker Id="3722994d-15c6-43fc-aa87-addaa3b228db" />
+        <classShapeMoniker Id="01483ea6-5fa9-4e76-beb7-94a0dc66f93b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.75 : 10.8181469726562); (6.5 : 10.8181469726562)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KetnoiCSDLDataContext/thuoc/thuoc_khangsinhdacbiet" />
+      <nodes>
+        <classShapeMoniker Id="16434aed-f55a-4528-a549-7982ee7527ca" />
+        <classShapeMoniker Id="80807b8b-fd15-4994-9e98-bd037f13af7c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(3 : 9.94314697265625); (3.75 : 9.94314697265625)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KetnoiCSDLDataContext/nhasx/nhasx_thuoc" />
+      <nodes>
+        <classShapeMoniker Id="f023df7a-fd92-4339-b3a0-c8ce418c43ec" />
+        <classShapeMoniker Id="16434aed-f55a-4528-a549-7982ee7527ca" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(3 : 11.6138037695312); (3.75 : 11.6138037695312)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KetnoiCSDLDataContext/hoatchat/hoatchat_thuoc" />
+      <nodes>
+        <classShapeMoniker Id="b9f85fde-8d2e-4ef9-8788-e7b41e978a03" />
+        <classShapeMoniker Id="16434aed-f55a-4528-a549-7982ee7527ca" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.5 : 32.8181469726563); (10 : 32.8181469726563); (10 : 30.7035953776042)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KetnoiCSDLDataContext/vikhuan/vikhuan_xetnghiemv" />
+      <nodes>
+        <classShapeMoniker Id="01d2ef07-516b-4752-8370-af7378c8539b" />
+        <classShapeMoniker Id="12631785-24de-4024-95bf-fc0181d6dbdd" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.40625 : 32.125); (8.40625 : 26.8277498372396); (9.01041666666667 : 26.8277498372396 : JumpStart); (9.17708333333333 : 26.8277498372396 : JumpEnd); (9.25 : 26.8277498372396)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KetnoiCSDLDataContext/vikhuan/vikhuan_khangsinhdo" />
+      <nodes>
+        <classShapeMoniker Id="01d2ef07-516b-4752-8370-af7378c8539b" />
+        <classShapeMoniker Id="940d670f-4e05-4a84-b6ce-d4794831f3a2" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 30.5615374615385); (5.9375 : 30.1240374615385); (5.9375 : 23.8854484049479); (6.04166666666667 : 23.8854484049479 : JumpStart); (6.20833333333333 : 23.8854484049479 : JumpEnd); (6.25 : 23.8854484049479)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KetnoiCSDLDataContext/xetnghiem_kq_thongso/xetnghiem_kq_thongso_kqxetnghiem" />
+      <nodes>
+        <classShapeMoniker Id="626fbd82-7a1c-436e-84e3-073f433b13f6" />
+        <classShapeMoniker Id="589b8760-e660-495a-8abe-25ba1070fffb" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 30.9719962565104); (3.5 : 30.9719962565104)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KetnoiCSDLDataContext/xetnghiem/xetnghiem_xetnghiem_kq_thongso" />
+      <nodes>
+        <classShapeMoniker Id="f5a6bd48-1614-4a6b-8078-6fe324a5959c" />
+        <classShapeMoniker Id="626fbd82-7a1c-436e-84e3-073f433b13f6" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 32.7412019856771); (3.5 : 32.7412019856771)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KetnoiCSDLDataContext/xetnghiem_thongso/xetnghiem_thongso_xetnghiem_kq_thongso" />
+      <nodes>
+        <classShapeMoniker Id="f713dd87-6cf7-460d-9846-6fea657f4967" />
+        <classShapeMoniker Id="626fbd82-7a1c-436e-84e3-073f433b13f6" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="2980209a-68db-4e15-b9d7-985cf0a8d49d" absoluteBounds="9, 19.625, 2, 4.8477197265625">
+      <DataClassMoniker Name="/KetnoiCSDLDataContext/phieuksdb" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c179bc3d-3233-4c6a-bca2-4726bf41fe4a" absoluteBounds="9.015, 20.085, 1.9700000000000002, 4.2877197265625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(11 : 22.39349584375); (15 : 22.39349584375)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KetnoiCSDLDataContext/phieuksdb/phieuksdb_phieuksdb_gui" />
+      <nodes>
+        <classShapeMoniker Id="2980209a-68db-4e15-b9d7-985cf0a8d49d" />
+        <classShapeMoniker Id="20c71011-dda0-48f1-9dca-741e8041dd30" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11 : 23.9238598632813); (12 : 23.9238598632813)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KetnoiCSDLDataContext/phieuksdb/phieuksdb_phieuksdb_thaydoi" />
+      <nodes>
+        <classShapeMoniker Id="2980209a-68db-4e15-b9d7-985cf0a8d49d" />
+        <classShapeMoniker Id="a43ff473-09a1-4ade-99f1-b74cb57a1840" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(9.09375 : 19.625); (9.09375 : 18.7768876476362); (15 : 18.7768876476362)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KetnoiCSDLDataContext/phieuksdb/phieuksdb_phieuksdb_ykien" />
+      <nodes>
+        <classShapeMoniker Id="2980209a-68db-4e15-b9d7-985cf0a8d49d" />
+        <classShapeMoniker Id="9983c574-fa8c-455e-aeb6-e0b08eae1759" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 28.2512408651843); (9.09375 : 28.2512408651843); (9.09375 : 24.4727197265625)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KetnoiCSDLDataContext/benhan/benhan_phieuksdb" />
+      <nodes>
+        <classShapeMoniker Id="3debb902-08aa-4974-bf8e-58a9f1573b7c" />
+        <classShapeMoniker Id="2980209a-68db-4e15-b9d7-985cf0a8d49d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.5 : 10.8181469726562); (9.0624975 : 10.8181469726562); (9.0624975 : 19.625)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/KetnoiCSDLDataContext/khangsinhdacbiet/khangsinhdacbiet_phieuksdb" />
+      <nodes>
+        <classShapeMoniker Id="80807b8b-fd15-4994-9e98-bd037f13af7c" />
+        <classShapeMoniker Id="2980209a-68db-4e15-b9d7-985cf0a8d49d" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
